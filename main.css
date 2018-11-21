@@ -1,0 +1,37 @@
+.container {
+  margin: 50px;
+}
+
+.lorem {
+  font-family: sans-serif;
+  color: darkslategray
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  font-style: none;
+  list-style: none;
+  list-style-type: none;
+}
+
+li {
+  list-style: none;
+  list-style-type: none;
+}
+
+body {
+  background-color: blanchedalmond
+}
+
+.sparta-logo {
+  height: 75px;
+  width: 200px;
+}
+
+.link {
+  font-size: 20px;
+}
